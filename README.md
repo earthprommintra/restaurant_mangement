@@ -15,7 +15,7 @@ Admin Dashboard,จัดการเมนูอาหาร (เพิ่ม/�
 
 Tech Stack
 ----------------------
-Backend: PHP 7.4+
+Backend: PHP 
 
 Database: MySQL
 
