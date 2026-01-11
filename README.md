@@ -1,6 +1,7 @@
 Restaurant Management System
 ---------------------
 ระบบจัดการร้านอาหารที่พัฒนาด้วย PHP และ MySQL พร้อมระบบจัดการเมนู การสั่งอาหาร และ Admin Panel
+Demo:https://www.comscirmutp.com/661125/restaurant_mangement/index.php
 
 Features
 ---------------
